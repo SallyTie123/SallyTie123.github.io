@@ -1,0 +1,46 @@
+html{
+    background-color:floralwhite
+}
+
+body {
+    background: #fff;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.06);
+    color: #545454;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 2em 2em 4em;
+}
+
+#nav{
+    line-height:30px;
+    background-color:#eeeeee;
+    height:300px;
+    float:right;
+    padding:10px;  
+    font-family: Broadway;
+}
+
+#header{
+    background-color:black;
+    color:white;
+    font-family:Broadway;
+    text-align:center;
+    padding:5px
+}
+
+#section{
+    width:350px
+    float:left;
+    text-align:left;
+    padding:5px
+}
+
+#footer{
+    background-color:antiquewhite;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px
+}
